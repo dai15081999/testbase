@@ -1,0 +1,16 @@
+<section class="menu container mx-auto py-8 py-16">
+    <h1 class="text-3xl mt-3 mb-5 font-bold">Chi tiết sản phẩm</h1>
+    <div class="p-2.5 flex border-2 border-black-50">
+        <img style="width: 300px;" src="/img/<%= product.image %>" alt="">
+        <div class="ml-4">
+            <p class="text-3xl mt-3 mb-5 font-bold"><%= product.name %></p>
+            <span><%= product.desc %></span>
+            <button
+            data-product="<%= JSON.stringify(product) %>"
+            class="bg-green-600 mt-5 mb-6 add-to-cart py-1 px-6 rounded-full flex items-center"
+          >
+            <span class="ml-4 text-xs">Thêm vào giỏ</span>
+          </button>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,58 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "Máy bay cảm ứng hình minion No388",
+    "image": "2.jpg",
+    "price": 50000,
+    "brand": "KKAa",
+    "desc":" Máy bay điều khiển Minions thiết kế độc đáo với 4 cánh trực thăng gắn trên đầu cùng hình dáng ngộ nghĩnh đem đến cho bé những giờ phút giải trí thật vui nhộn"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "XE MOTO ĐIỆN NEXT100",
+    "image": "1.jpg",
+    "price": 120000,
+    "brand": "Number one",
+    "desc": "Xe máy điện trẻ em BDQ-6188 đang làm mưa làm gió trên thị trường xe máy điện cho bé hiện nay, bởi thiết kế lạ mắt, mát mẻ như chú tuấn mã mạnh mẽ các đường nét xe vô cùng sắc sảo chắc chắn."
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "Robot 655A",
+    "image": "3.jpg",
+    "price": 430200,
+    "brand": "BBG",
+    "desc": "Robot Smart no 655A dành cho trẻ em Robot lập trình thông minh với đồ chơi điều khiển, nhảy múa, ca hát,..."
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "Máy bay cảm ứng No.HFD8018",
+    "image": "4.jpg",
+    "price": 300000,
+    "brand": "Shoppe",
+    "desc": "Đồ chơi được làm từ chất liệu nhựa ABS, không chứa hóa chất độc hại, an toàn với sức khỏe người sử dụng"
+  },
+  {
+    "_id": {
+      "$oid": "5eee651f739f8c674fd73316ee"
+    },
+    "name": "Bộ xếp hình Lego",
+    "image": "5.jpg",
+    "price": 314000,
+    "brand": "XNDa",
+    "desc":"Bộ đồ chơi xếp hình cửa hàng trong thành phố Mini City street Bộ sản phẩm gồm 12 mẫu nhà hàng - Khoảng 200 chi tiết block. Giúp bé phát triển khả năng tư duy. "
+  },
+  {
+    "_id": {
+      "$oid": "5eee651f722f8c674fd73316ee"
+    },
+    "name": "ROBOT HEO CHƠI ĐÀN SIÊU NGỘ NGHĨNH",
+    "image": "6.jpg",
+    "price": 342000,
+    "brand": "XNDaLM",
+    "desc":"ROBOT HEO CHƠI ĐÀN SIÊU NGỘ NGHĨN"
+  }]
+  
